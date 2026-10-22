@@ -1,0 +1,16 @@
+{
+  "pdf_filename": "test_sample.pdf",
+  "pdf_path": "C:\\Users\\Student\\AppData\\Local\\Temp\\pytest-of-Student\\pytest-6\\test_extract_real_pdf_or_mock0\\test_sample.pdf",
+  "total_pages": 1,
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Retrieval-Augmented Generation (RAG) combines dense semantic retrieval with generative neural networks to p",
+      "char_count": 107
+    }
+  ],
+  "total_characters": 107,
+  "is_scanned": false,
+  "error": null,
+  "status": "success"
+}

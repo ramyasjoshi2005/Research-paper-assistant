@@ -1,0 +1,24 @@
+# Core Web Application
+streamlit>=1.30.0
+
+# PDF Extraction & Processing
+pymupdf>=1.23.0
+pypdf>=4.0.0
+
+# Networking & Data
+requests>=2.31.0
+pandas>=2.0.0,<3.0.0
+numpy>=1.24.0,<2.0.0
+tabulate>=0.9.0
+
+# Configuration & Testing
+python-dotenv>=0.21.0
+pytest>=7.4.0
+
+# LLM Provider (Optional for Generative Mode, Free tier on Google AI Studio)
+google-generativeai>=0.8.0
+
+# Optional Vector & Embedding upgrades (Automatic local fallbacks included)
+# sentence-transformers>=2.2.0
+# chromadb>=0.4.0
+
